@@ -1,0 +1,8 @@
+{
+  "short_name": "SnowFlake",
+  "name": "SnowFlake",
+  "start_url": "/",
+  "background_color": "#222",
+  "display": "standalone",
+  "theme_color": "#222"
+}

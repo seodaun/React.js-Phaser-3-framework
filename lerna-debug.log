@@ -1,0 +1,12 @@
+0 silly argv {
+0 silly argv   _: [ 'run' ],
+0 silly argv   parallel: true,
+0 silly argv   lernaVersion: '3.21.0',
+0 silly argv   '$0': 'node_modules\\lerna\\cli.js',
+0 silly argv   script: 'dev'
+0 silly argv }
+1 notice cli v3.21.0
+2 verbose rootPath C:\Study_File\진행중인 프로젝트\snow-flake
+3 error JSONError: Unexpected token } in JSON at position 779 while parsing near '...alize": "^0.2.0",  },  "devDependencie...' in packages\client\package.json
+3 error     at module.exports (C:\Study_File\진행중인 프로젝트\snow-flake\node_modules\parse-json\index.js:26:19)
+3 error     at parse (C:\Study_File\진행중인 프로젝트\snow-flake\node_modules\@lerna\project\node_modules\load-json-file\index.js:15:9)
